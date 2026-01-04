@@ -1,0 +1,5 @@
+{
+  "name": "HXH Course Schedule Extractor ",
+  "description": "Extracts course details from schedule images and exports them to Excel using Gemini AI.",
+  "requestFramePermissions": []
+}
